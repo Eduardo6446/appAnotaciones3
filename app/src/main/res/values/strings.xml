@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anotaciones3</string>
+    <string name="strTarea">Tarea 1</string>
+    <string name="strIngreseTarea">Ingrese una tarea</string>
+    <string name="strValidacionError">Campo requerido</string>
+    <string name="strPendientes">tareas pendientes</string>
+    <string name="strFinalizadas">Finalizadas</string>
+    <string name="strDialogTitulo">Está seguro de eliminar?</string>
+    <string name="strAceptar">Aceptar</string>
+    <string name="strCancelar">Cancelar</string>
+</resources>
